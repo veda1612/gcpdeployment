@@ -1,0 +1,24 @@
+2020-08-29/23:05:20		DATA is being gathered 
+2020-08-29/23:06:12		DATA is being gathered 
+2020-08-29/23:06:49		DATA gathering completed 
+2020-08-29/23:08:37		columns for data set has been set
+2020-08-30/22:26:47		EDA started 
+2020-08-30/22:27:36		EDA started 
+2020-08-30/22:27:41		EDA started 
+2020-08-30/22:27:44		EDA is done 
+2020-08-30/22:27:44		doing the Lable encoding of the categorical columns
+2020-08-30/22:27:45		lable encoding is done 
+2020-08-30/22:27:46		plotting the correlation matrix 
+2020-08-30/22:27:46		plotting correlation is done 
+2020-08-30/22:59:41		EDA started 
+2020-08-30/22:59:42		EDA is done 
+2020-08-30/22:59:42		doing the Lable encoding of the categorical columns
+2020-08-30/22:59:44		lable encoding is done 
+2020-08-30/22:59:44		plotting the correlation matrix 
+2020-08-30/22:59:44		plotting correlation is done 
+2020-08-30/23:00:38		EDA started 
+2020-08-30/23:00:40		EDA is done 
+2020-08-30/23:00:40		doing the Lable encoding of the categorical columns
+2020-08-30/23:00:41		lable encoding is done 
+2020-08-30/23:00:41		plotting the correlation matrix 
+2020-08-30/23:00:41		plotting correlation is done 

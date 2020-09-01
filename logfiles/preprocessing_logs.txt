@@ -1,0 +1,23 @@
+2020-08-30/22:24:50		DATA is being gathered 
+2020-08-30/22:26:15		columns for data set has been set
+2020-08-30/22:26:47		checking the missing values
+2020-08-30/22:27:26		checking the missing values
+2020-08-30/22:27:46		splitting data into dependent and independent vaiables 
+2020-08-30/22:35:08		splitting the dataset into train and test sets 
+2020-08-30/22:35:08		splitting the dataset into train and test sets is done 
+2020-08-30/22:35:08		scaling the data 
+2020-08-30/22:35:08		scaling is done 
+2020-08-30/22:59:40		DATA is being gathered 
+2020-08-30/22:59:41		DATA gathering completed 
+2020-08-30/22:59:41		columns for data set has been set
+2020-08-30/22:59:41		checking the missing values
+2020-08-30/22:59:44		splitting data into dependent and independent vaiables 
+2020-08-30/23:00:38		DATA is being gathered 
+2020-08-30/23:00:38		DATA gathering completed 
+2020-08-30/23:00:38		columns for data set has been set
+2020-08-30/23:00:38		checking the missing values
+2020-08-30/23:00:41		splitting data into dependent and independent vaiables 
+2020-08-30/23:01:04		splitting the dataset into train and test sets 
+2020-08-30/23:01:04		splitting the dataset into train and test sets is done 
+2020-08-30/23:01:04		scaling the data 
+2020-08-30/23:01:04		scaling is done 

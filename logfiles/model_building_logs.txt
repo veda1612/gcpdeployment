@@ -1,0 +1,45 @@
+2020-08-29/23:25:56		model building started 
+2020-08-29/23:26:41		hyperparameter of logostic model started 
+2020-08-29/23:27:30		fitting the model with best parameters 
+2020-08-29/23:28:25		fitting LG model is done 
+2020-08-29/23:29:14		prediction using  LG model is done 
+2020-08-29/23:29:53		fitting NB model 
+2020-08-29/23:30:19		prediction using  NB model is done 
+2020-08-29/23:30:45		Fitting using KNN model 
+2020-08-29/23:31:11		prediction using  KNN model is done 
+2020-08-29/23:31:32		Fitting using  SVC model 
+2020-08-29/23:31:59		prediction using  svc model is done 
+2020-08-29/23:32:23		fitting using  decision tree model
+2020-08-29/23:33:01		prediction using  DT model is done 
+2020-08-29/23:33:25		Fitting using  RF model
+2020-08-29/23:33:55		prediction using  RANDOM FOREST model is done 
+2020-08-30/22:35:08		model building started 
+2020-08-30/22:35:08		hyperparameter of logostic model started 
+2020-08-30/22:35:09		fitting the model with best parameters 
+2020-08-30/22:35:28		fitting LG model is done 
+2020-08-30/22:35:28		prediction using  LG model is done 
+2020-08-30/22:35:28		fitting NB model 
+2020-08-30/22:35:28		prediction using  NB model is done 
+2020-08-30/22:35:28		Fitting using KNN model 
+2020-08-30/22:35:35		prediction using  KNN model is done 
+2020-08-30/22:35:35		Fitting using  SVC model 
+2020-08-30/22:35:36		prediction using  svc model is done 
+2020-08-30/22:35:36		fitting using  decision tree model
+2020-08-30/22:35:37		prediction using  DT model is done 
+2020-08-30/22:35:37		Fitting using  RF model
+2020-08-30/22:35:43		prediction using  RANDOM FOREST model is done 
+2020-08-30/23:01:04		model building started 
+2020-08-30/23:01:04		hyperparameter of logostic model started 
+2020-08-30/23:01:04		fitting the model with best parameters 
+2020-08-30/23:01:24		fitting LG model is done 
+2020-08-30/23:01:24		prediction using  LG model is done 
+2020-08-30/23:01:24		fitting NB model 
+2020-08-30/23:01:24		prediction using  NB model is done 
+2020-08-30/23:01:24		Fitting using KNN model 
+2020-08-30/23:01:31		prediction using  KNN model is done 
+2020-08-30/23:01:31		Fitting using  SVC model 
+2020-08-30/23:01:32		prediction using  svc model is done 
+2020-08-30/23:01:32		fitting using  decision tree model
+2020-08-30/23:01:32		prediction using  DT model is done 
+2020-08-30/23:01:32		Fitting using  RF model
+2020-08-30/23:01:37		prediction using  RANDOM FOREST model is done 

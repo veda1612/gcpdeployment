@@ -1,0 +1,56 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Search Page</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+{% block body %}
+<div class="content">
+    <h1 style="text-align: center">Classify the car quality decision categories</h1>
+
+    <div class="form">
+        <form action="/predict" method="POST">
+		<h3>What Is the Price type?</h3><br><select name="Price" id="Price" required="required">
+                <option value="low">low</option>
+                <option value="med">med</option>
+                <option value="high">high</option>
+				<option value="vhigh">vhigh</option>
+            </select>
+			<h3>What Is the Maintenance Cost?</h3><br><select name="Maintenance Cost" id="Maintenance Cost" required="required">
+                <option value="low">low</option>
+                <option value="med">med</option>
+                <option value="high">high</option>
+				<option value="vhigh">vhigh</option>
+            </select>			
+            <h3>How many number of Doors?</h3><br><select name="Number of Doors" id="Number of Doors" required="required">
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+				<option value="5more">5more</option>
+            </select>
+			<h3>What is the Capacity?</h3><br><select name="Capacity" id="Capacity" required="required">
+                <option value="2">2</option>
+                <option value="4">4</option>
+				<option value="more">more</option>
+            </select>
+			<h3>What Is the size of Luggage Boot?</h3><br><select name="Size of Luggage Boot" id="Size of Luggage Boot" required="required">
+                <option value="small">low</option>
+                <option value="med">med</option>
+                <option value="big">big</option>
+			</select>
+			<h3>Condition of Safety?</h3><br><select name="safety" id="safety" required="required">
+                <option value="low">low</option>
+                <option value="med">med</option>
+                <option value="high">high</option>
+			</select>
+            <br><br><button id="Decision" type="submit ">Classify the car quality decision</button>
+            <br>
+            
+        </form>
+		
+		<br><br><h3>{{ prediction_text }}<h3>
+    </div>
+</div>
+{% endblock %}
